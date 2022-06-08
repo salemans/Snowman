@@ -1,0 +1,15 @@
+{
+  "name": "muneconieve",
+  "version": "1.0.0",
+  "description": "conexion mysql nodejs",
+  "main": "index2.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "three-transform-controls": "^1.0.4"
+  }
+}
